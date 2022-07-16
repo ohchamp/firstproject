@@ -1,0 +1,10 @@
+#cancella un origin
+ - git remote rm origin.
+# add / clone a repo.
+- git remote add origin https://github.com/ohchamp/firstproject.git 
+#push change to origin
+- git push origin master.
+#comit file localy 
+git commit -am "comment"
+#add a file to be commit
+- git add + the file name 
